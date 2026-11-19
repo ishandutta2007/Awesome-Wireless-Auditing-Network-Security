@@ -2,7 +2,7 @@
 
 ![Awesome Wireless Auditing & Network Security Banner](assets/banner.svg)
 
-<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://github.com/ishandutta2007/Awesome-Wireless-Auditing-Network-Security/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Wireless-Auditing-Network-Security?style=flat-square&color=gold" alt="GitHub Stars"/></a> <a href="https://github.com/ishandutta2007/Awesome-Wireless-Auditing-Network-Security/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Wireless-Auditing-Network-Security?style=flat-square&color=blue" alt="GitHub Forks"/></a> <a href="https://github.com/ishandutta2007/Awesome-Wireless-Auditing-Network-Security/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License"/></a> <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://github.com/ishandutta2007/Awesome-Wireless-Auditing-Network-Security/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Wireless-Auditing-Network-Security?style=flat-square&color=gold" alt="GitHub_Stars"/></a> <a href="https://github.com/ishandutta2007/Awesome-Wireless-Auditing-Network-Security/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Wireless-Auditing-Network-Security?style=flat-square&color=blue" alt="GitHub Forks"/></a> <a href="https://github.com/ishandutta2007/Awesome-Wireless-Auditing-Network-Security/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License"/></a> <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 > 🚀 **A curated, authoritative index of Enterprise SaaS Platforms, RF Spectrum Analyzers, and Open-Source Security Tools for 802.11 Wi-Fi Auditing, WPA2/WPA3 Handshake Cracking, Rogue Access Point Detection, Packet Sniffing, and Wireless Intrusion Prevention (WIDS/WIPS).**
 
@@ -43,9 +43,9 @@ The global **Wireless Network Security and Auditing market** is estimated at **$
 
 ## 💻 Open-Source Security Tools & Frameworks
 
-Curated open-source repositories sorted by **GitHub Stars** (descending), complete with direct links to repo stargazers and official documentation.
+Curated open-source repositories sorted by **GitHub_Stars** (descending), complete with direct links to repo stargazers and official documentation.
 
-| Repository & Stars | Description | Focus Area |
+| Repository & GitHub_Stars | Description | Focus Area |
 | :--- | :--- | :--- |
 | **[OpenWrt](https://github.com/openwrt/openwrt)**<br>[![Stars](https://img.shields.io/github/stars/openwrt/openwrt?style=social&color=white)](https://github.com/openwrt/openwrt/stargazers) | Highly extensible open-source Linux operating system for wireless routers, gateways, and AP auditing infrastructure. | Router OS / AP Gateway |
 | **[Hashcat](https://github.com/hashcat/hashcat)**<br>[![Stars](https://img.shields.io/github/stars/hashcat/hashcat?style=social&color=white)](https://github.com/hashcat/hashcat/stargazers) | World's fastest GPU-accelerated password recovery engine used for auditing captured WPA/WPA2/WPA3 PMKID and EAPOL handshakes. | WPA/WPA3 Password Auditing |
