@@ -42,7 +42,7 @@
   </defs>
 
   <style>
-    /* Radar & Wave Animations */
+    <![CDATA[
     @keyframes radarSpin {
       0% { transform: rotate(0deg); }
       100% { transform: rotate(360deg); }
@@ -97,6 +97,7 @@
     .node-spark-1 { animation: nodeBlink 2.4s ease-in-out infinite 0.2s; }
     .node-spark-2 { animation: nodeBlink 3.1s ease-in-out infinite 0.8s; }
     .node-spark-3 { animation: nodeBlink 2.8s ease-in-out infinite 1.4s; }
+    ]]>
   </style>
 
   <!-- Deep Canvas Background -->
@@ -143,7 +144,7 @@
       <line x1="1060" y1="180" x2="1180" y2="130" stroke="#00f2fe" stroke-width="2" filter="url(#softGlow)" />
     </g>
 
-    <!-- Radar Detected AP & Packet Blips -->
+    <!-- Radar Detected AP and Packet Blips -->
     <circle cx="1030" cy="120" r="3.5" fill="#00f2fe" class="node-spark-1" filter="url(#softGlow)" />
     <text x="1038" y="118" fill="#00f2fe" font-family="'Segoe UI', -apple-system, Roboto, sans-serif" font-size="9" opacity="0.75">AP_01 [WPA3]</text>
 
@@ -162,7 +163,7 @@
     <text x="180" y="54" fill="#00f2fe" font-family="'Segoe UI', monospace" font-size="10" letter-spacing="1.5">IEEE 802.11ax / WPA3 / BLE 5.4</text>
   </g>
 
-  <!-- FOREGROUND CONTENT: Header Title & Badges in clear foreground -->
+  <!-- FOREGROUND CONTENT: Header Title and Badges in clear foreground -->
   <g transform="translate(70, 0)">
     <!-- Top Category Tag -->
     <rect x="0" y="90" width="220" height="26" rx="13" fill="#0c1b3d" stroke="#00f2fe" stroke-width="1" />
@@ -191,14 +192,14 @@
         <text x="28" y="22" fill="#e2e8f0" font-family="'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600">📡 Wi-Fi 6E/7 Auditing</text>
       </g>
 
-      <!-- Pill 2: RF & SDR -->
+      <!-- Pill 2: RF and SDR -->
       <g transform="translate(180, 0)" class="pill-floating-lag">
         <rect x="0" y="0" width="160" height="34" rx="8" fill="url(#cardGrad)" stroke="#1e3a70" stroke-width="1.2" />
         <circle cx="16" cy="17" r="4" fill="#a855f7" />
         <text x="28" y="22" fill="#e2e8f0" font-family="'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600">📻 RF Spectrum / SDR</text>
       </g>
 
-      <!-- Pill 3: WPA3 & Handshakes -->
+      <!-- Pill 3: WPA3 and Handshakes -->
       <g transform="translate(355, 0)" class="pill-floating">
         <rect x="0" y="0" width="185" height="34" rx="8" fill="url(#cardGrad)" stroke="#1e3a70" stroke-width="1.2" />
         <circle cx="16" cy="17" r="4" fill="#ff0080" />
